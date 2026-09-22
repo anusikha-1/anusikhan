@@ -136,6 +136,8 @@ An interactive personal portfolio website showcasing my projects, technical skil
 - 📱 Responsive frontend design
 - ⚡ React + Vite development
 - 🐛 Debugging and error handling
+  
+---
 
 ### 🎓 Student Performance Prediction System
 
