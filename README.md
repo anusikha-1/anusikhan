@@ -89,6 +89,50 @@ A web-based food ordering application developed using Java technologies.
 
 ---
 
+### 🎓 Student Performance Prediction System
+
+A machine-learning-based web application developed to analyze and predict student academic performance using academic, attendance, and behavioral information.
+
+The system helps identify factors that may influence student performance and provides a prediction based on the available student data.
+
+**Technologies:**
+
+`Python` `Django` `HTML` `CSS` `JavaScript` `Scikit-learn`
+
+**Key Features:**
+
+- 📊 Student academic performance analysis
+- 📝 Student data collection and management
+- 📚 Uses marks and academic information for prediction
+- 🕒 Attendance-based analysis
+- 🧠 Machine learning model for performance prediction
+- 📈 Behavioral and academic factor analysis
+- 🌐 Django-based web application
+- 💾 Backend processing using Python
+- 🎨 User-friendly frontend using HTML, CSS, and JavaScript
+
+**Machine Learning:**
+
+- Data preprocessing
+- Feature selection
+- Model training
+- Model evaluation
+- Performance prediction using Scikit-learn
+
+**My Contribution:**
+
+- Developed and worked with the Django-based application structure
+- Integrated the machine-learning model with the web application
+- Worked with student academic and behavioral data
+- Implemented frontend pages using HTML, CSS, and JavaScript
+- Tested the prediction workflow and application functionality
+
+**Project Outcome:**
+
+The application provides a web-based interface where student-related information can be processed and used to generate a predicted performance result.
+
+---
+
 ### 🤖 AI-First CRM – HCP Interaction Module
 
 An AI-powered CRM application designed to simplify interaction management for healthcare professionals.
