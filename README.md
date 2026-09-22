@@ -110,6 +110,33 @@ Instead of filling long manual forms, users can provide interaction details in n
 
 ---
 
+### 🌐 Frontend Interactive Portfolio
+
+An interactive personal portfolio website showcasing my projects, technical skills, education, experience, and contact information.
+
+**Technologies:**
+
+`React` `JavaScript` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap` `Vite`
+
+**APIs & Integration:**
+
+`Google Gemini API` `OpenWeather API` `Unsplash API`
+
+**Tools:**
+
+`Git` `GitHub` `Vercel`
+
+**Key Features:**
+
+- 🎨 Interactive and responsive UI
+- 💼 Project showcase
+- 🛠️ Technical skills section
+- 🎓 Education and experience
+- 🔗 API integration
+- 📱 Responsive frontend design
+- ⚡ React + Vite development
+- 🐛 Debugging and error handling
+
 ### 🎓 Student Performance Prediction System
 
 A machine-learning-based application designed to predict student performance using academic and behavioral information.
