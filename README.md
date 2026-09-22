@@ -188,8 +188,7 @@ Gained practical exposure to machine-learning concepts and Python-based developm
 
 🌐 [Portfolio](https://anusikha-1.github.io/AnusikhaPortfolio/)
 
-📧 [Email](mailto:anusikhan84@gmail.com)
----
+📧 **Gmail:** anusikhan84@gmail.com---
 
 ## 🌱 Currently Learning
 
