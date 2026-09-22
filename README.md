@@ -174,7 +174,7 @@ Gained practical exposure to machine-learning concepts and Python-based developm
 
 &nbsp;&nbsp;
 
-<a href="https://anusikha.lovable.app">
+<a href="https://anusikha-1.github.io/AnusikhaPortfolio/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="45"/>
 </a>
 
@@ -186,7 +186,7 @@ Gained practical exposure to machine-learning concepts and Python-based developm
 
 🐙 [GitHub](https://github.com/anusikha-1)
 
-🌐 [Portfolio](https://anusikha.lovable.app)
+🌐 [Portfolio](https://anusikha-1.github.io/AnusikhaPortfolio/)
 
 📧 **Gmail:** YOUR_EMAIL
 
